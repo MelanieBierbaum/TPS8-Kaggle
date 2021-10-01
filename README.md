@@ -16,7 +16,7 @@ My repository contains the following notebooks:
   * EDA (Exploratory Data Analysis)
 
 * tps8-pycaret-commented.ipynb
-  * my first steps with pycaret (automatic model selection and blened prediction with the best models)
+  * my first steps with pycaret (automatic model selection and blended prediction with the best 3 models)
 
 * tps8-2step-approach.ipynb
   * attempt to break the problem down into one classification and one regression (failed because classification results were too bad)
